@@ -1,2 +1,3 @@
 # Customer_Behaviour_Analysis
-A Data Analytics Project that used to analyze the customer Behaviour using python ,sql, power BI
+This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories.
+The goal is to uncover insights into customer preferences, spending patterns, and purchase behavior to support better business decisions.
