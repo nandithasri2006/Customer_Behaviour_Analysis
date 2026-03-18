@@ -1,6 +1,8 @@
 # Customer_Behaviour_Analysis
 Customer Shopping Behavior Analysis
-Overview
+
+
+<h1>Overview</h1>
 
 This project analyzes customer shopping behavior using transactional data (3,900 records) to uncover patterns in spending, product preferences, and purchase trends.
 
