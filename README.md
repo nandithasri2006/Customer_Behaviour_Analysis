@@ -120,3 +120,7 @@ Customer segmentation using clustering
 Sales prediction using machine learning
 
 Personalized recommendation system
+
+Author
+
+Nandhitha Sri Maraka
