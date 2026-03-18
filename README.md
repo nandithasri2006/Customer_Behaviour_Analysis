@@ -102,6 +102,7 @@ customer-shopping-analysis/
 │── reports/ 
 
 │── README.md
+
  How to Run
 
 <h1>Clone the repository</h1>
