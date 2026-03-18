@@ -8,7 +8,7 @@ This project analyzes customer shopping behavior using transactional data (3,900
 
 The goal is to generate data-driven insights that help improve marketing strategies, customer engagement, and overall business performance.
 
- <h1>Objective</h1>h1>
+ <h1>Objective</h1>
 
 Analyze customer purchase behavior
 
@@ -78,7 +78,7 @@ Improve customer retention programs
 
 <img width="1343" height="727" alt="Screenshot 2026-03-18 203741" src="https://github.com/user-attachments/assets/d9b2359a-5655-49d0-a419-af91a59157f6" />
 
-Sales Overview Dashboard
+<Sales Overview Dashboard
 
 Customer Segmentation Chart
 
@@ -90,11 +90,16 @@ Monthly Sales Trend
 
  <h1>Project Structure</h1>
 customer-shopping-analysis/
-│── data/             
-│── notebooks/       
-│── sql/               
-│── powerbi/          
-│── reports/          
+│── data/   
+
+│── notebooks/
+
+│── sql/   
+
+│── powerbi/ 
+
+│── reports/ 
+
 │── README.md
  How to Run
 
