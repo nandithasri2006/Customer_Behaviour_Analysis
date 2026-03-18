@@ -1,6 +1,4 @@
-# Customer_Behaviour_Analysis
-Customer Shopping Behavior Analysis
-
+# Customer_Shopping_Behaviour_Analysis
 
 <h1>Overview</h1>
 
